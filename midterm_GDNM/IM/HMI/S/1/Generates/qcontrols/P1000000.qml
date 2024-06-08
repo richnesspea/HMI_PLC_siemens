@@ -177,9 +177,35 @@ IGuiPage
 		id: q486539316
 		objId: 486539316
 		x: 262
-		y: 116
+		y: 118
 		width: 86
 		height: 46
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 2
+		qm_ImageSource: "image://QSmartImageProvider/19#2#4#128#0#0"
+		qm_Border.top: 15
+		qm_Border.bottom: 15
+		qm_Border.right: 5
+		qm_Border.left: 5
+		qm_FillColor: "#ff636573"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 2
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiButton
+	{
+		id: q486539317
+		objId: 486539317
+		x: 387
+		y: 283
+		width: 196
+		height: 59
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
 		qm_ImageSource: "image://QSmartImageProvider/19#2#4#128#0#0"
