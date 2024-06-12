@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiQmlRectangle
 	{
-		id: q671088654
-		objId: 671088654
+		id: q671088650
+		objId: 671088650
 		x: 618
 		y: 375
 		width: 110
@@ -40,8 +40,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088658
-		objId: 671088658
+		id: q671088654
+		objId: 671088654
 		x: 492
 		y: 375
 		width: 110
@@ -70,8 +70,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088657
-		objId: 671088657
+		id: q671088653
+		objId: 671088653
 		x: 366
 		y: 375
 		width: 110
@@ -100,8 +100,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088656
-		objId: 671088656
+		id: q671088652
+		objId: 671088652
 		x: 240
 		y: 375
 		width: 110
@@ -130,8 +130,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088655
-		objId: 671088655
+		id: q671088651
+		objId: 671088651
 		x: 114
 		y: 375
 		width: 110
@@ -160,8 +160,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088659
-		objId: 671088659
+		id: q671088655
+		objId: 671088655
 		x: 618
 		y: 305
 		width: 110
@@ -190,8 +190,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088660
-		objId: 671088660
+		id: q671088656
+		objId: 671088656
 		x: 492
 		y: 305
 		width: 110
@@ -220,8 +220,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088661
-		objId: 671088661
+		id: q671088657
+		objId: 671088657
 		x: 366
 		y: 305
 		width: 110
@@ -250,8 +250,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088662
-		objId: 671088662
+		id: q671088658
+		objId: 671088658
 		x: 240
 		y: 305
 		width: 110
@@ -280,8 +280,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088663
-		objId: 671088663
+		id: q671088659
+		objId: 671088659
 		x: 114
 		y: 305
 		width: 110
@@ -310,8 +310,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088664
-		objId: 671088664
+		id: q671088660
+		objId: 671088660
 		x: 618
 		y: 235
 		width: 110
@@ -340,8 +340,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088665
-		objId: 671088665
+		id: q671088661
+		objId: 671088661
 		x: 492
 		y: 235
 		width: 110
@@ -370,8 +370,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088666
-		objId: 671088666
+		id: q671088662
+		objId: 671088662
 		x: 366
 		y: 235
 		width: 110
@@ -400,8 +400,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088667
-		objId: 671088667
+		id: q671088663
+		objId: 671088663
 		x: 240
 		y: 235
 		width: 110
@@ -430,8 +430,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088668
-		objId: 671088668
+		id: q671088664
+		objId: 671088664
 		x: 114
 		y: 235
 		width: 110
@@ -460,8 +460,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088669
-		objId: 671088669
+		id: q671088665
+		objId: 671088665
 		x: 618
 		y: 165
 		width: 110
@@ -490,8 +490,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088670
-		objId: 671088670
+		id: q671088666
+		objId: 671088666
 		x: 492
 		y: 165
 		width: 110
@@ -520,8 +520,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088671
-		objId: 671088671
+		id: q671088667
+		objId: 671088667
 		x: 366
 		y: 165
 		width: 110
@@ -550,8 +550,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088672
-		objId: 671088672
+		id: q671088668
+		objId: 671088668
 		x: 240
 		y: 165
 		width: 110
@@ -580,8 +580,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088673
-		objId: 671088673
+		id: q671088669
+		objId: 671088669
 		x: 114
 		y: 165
 		width: 110
@@ -610,8 +610,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539318
-		objId: 486539318
+		id: q486539306
+		objId: 486539306
 		x: 32
 		y: 57
 		width: 192
