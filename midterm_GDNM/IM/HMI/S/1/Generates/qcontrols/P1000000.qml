@@ -114,8 +114,8 @@ IGuiPage
 	}
 	IGuiQmlCircle
 	{
-		id: q671088673
-		objId: 671088673
+		id: q671088656
+		objId: 671088656
 		x: 43
 		y: 39
 		width: 49
@@ -129,8 +129,8 @@ IGuiPage
 	}
 	IGuiQmlCircle
 	{
-		id: q671088672
-		objId: 671088672
+		id: q671088655
+		objId: 671088655
 		x: 159
 		y: 39
 		width: 49
@@ -144,8 +144,8 @@ IGuiPage
 	}
 	IGuiQmlCircle
 	{
-		id: q671088671
-		objId: 671088671
+		id: q671088654
+		objId: 671088654
 		x: 45
 		y: 219
 		width: 49
@@ -159,8 +159,8 @@ IGuiPage
 	}
 	IGuiQmlCircle
 	{
-		id: q671088670
-		objId: 671088670
+		id: q671088653
+		objId: 671088653
 		x: 161
 		y: 218
 		width: 49
@@ -228,8 +228,8 @@ IGuiPage
 	{
 		id: q402653187
 		objId: 402653187
-		x: 388
-		y: 79
+		x: 394
+		y: 49
 		width: 367
 		height: 186
 		qm_BorderCornerRadius: 4
